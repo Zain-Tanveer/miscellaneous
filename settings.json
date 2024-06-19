@@ -1,0 +1,86 @@
+{
+  "editor.quickSuggestions": {
+    "strings": true
+  },
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "diffEditor.wordWrap": "on",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "files.exclude": {
+    "**/.classpath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.factorypath": true
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "explorer.confirmDelete": false,
+  "editor.mouseWheelZoom": true,
+  "editor.largeFileOptimizations": false,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.formatOnSave": true,
+  "security.workspace.trust.untrustedFiles": "open",
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.python",
+    "editor.formatOnType": true
+  },
+  "python.terminal.activateEnvironment": false,
+  "css.lint.unknownAtRules": "ignore",
+  "workbench.startupEditor": "none",
+  "editor.minimap.enabled": false,
+  "git.confirmSync": false,
+  "git.enableSmartCommit": true,
+  "editor.accessibilitySupport": "off",
+  "editor.tabCompletion": "on",
+  "workbench.iconTheme": "material-icon-theme",
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[handlebars]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "[scss]": {
+    "editor.defaultFormatter": "vscode.css-language-features"
+  },
+  "editor.formatOnPaste": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "reactSnippets.settings.importReactOnTop": false,
+  "editor.fontSize": 18,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "php.validate.executablePath": "C:/xampp/php/php.exe",
+  "[vue]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "eslint.codeActionsOnSave.rules": null,
+  "workbench.settings.applyToAllProfiles": [],
+  "[php]": {
+    "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+  },
+  "[blade]": {
+    "editor.defaultFormatter": "shufo.vscode-blade-formatter"
+  },
+  "prettier.printWidth": 100,
+  "cSpell.userWords": [
+    "Amazone",
+    "axios",
+    "jsonplacholder",
+    "Kanye",
+    "materialdesignicons",
+    "Pinia",
+    "toastification",
+    "Todos",
+    "vitepress",
+    "Vuelidate",
+    "vuetify",
+    "Vuex"
+  ]
+}
